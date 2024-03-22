@@ -53,6 +53,10 @@ Three folders in Project 2
 
 **Outputs** 
 - Located in this folder are the csv files as well as images of the outputs being ran.
+
+**Contributors**
+Devon Noer, Kim Reiser
+
     
 
 
