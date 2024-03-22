@@ -38,7 +38,22 @@
 - Creating the Crowdfunding Database
 ![Image](Crowdfunding_ETL/Outputs/crowdfunding%20ERD.png)
   
+#### Overview of Files in Project 2 
+Three folders in Project 2
+  - Code
+  - Output
+  - Resources
 
+**Code**
+
+- Located in the code folder is the ETL_Mini_Project_DNoer_KReiser.ipynb folder and the crowdfunding_db_schema.sql. Contained in these folders are the codes utilized for Python in order to extract and transform the data and for SQL to load and query data. 
+
+**Resources**
+- Two excel filed containing the raw data for both contacts and crowdfunding are located within resources. 
+
+**Outputs** 
+- Located in this folder are the csv files as well as images of the outputs being ran.
+    
 
 
 
